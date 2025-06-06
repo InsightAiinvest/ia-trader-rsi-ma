@@ -1,1 +1,0 @@
-# ia-trader-rsi-ma
