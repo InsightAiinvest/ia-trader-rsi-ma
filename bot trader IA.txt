@@ -1,4 +1,4 @@
-# streamlit_app.py - IA Trader com RSI + Médias Móveis + Volume
+# streamlit_app.py 
 
 import pandas as pd
 import matplotlib.pyplot as plt
